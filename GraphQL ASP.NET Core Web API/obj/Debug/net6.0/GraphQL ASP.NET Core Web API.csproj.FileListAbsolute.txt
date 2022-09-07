@@ -1,0 +1,88 @@
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\obj\Debug\net6.0\GraphQL ASP.NET Core Web API.csproj.AssemblyReference.cache
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\obj\Debug\net6.0\GraphQL ASP.NET Core Web API.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\obj\Debug\net6.0\GraphQL ASP.NET Core Web API.AssemblyInfoInputs.cache
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\obj\Debug\net6.0\GraphQL ASP.NET Core Web API.AssemblyInfo.cs
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\obj\Debug\net6.0\GraphQL ASP.NET Core Web API.csproj.CoreCompileInputs.cache
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\obj\Debug\net6.0\GraphQL ASP.NET Core Web API.MvcApplicationPartsAssemblyInfo.cs
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\obj\Debug\net6.0\GraphQL ASP.NET Core Web API.MvcApplicationPartsAssemblyInfo.cache
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\appsettings.Development.json
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\appsettings.json
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\GraphQL ASP.NET Core Web API.exe
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\GraphQL ASP.NET Core Web API.deps.json
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\GraphQL ASP.NET Core Web API.runtimeconfig.json
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\GraphQL ASP.NET Core Web API.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\ref\GraphQL ASP.NET Core Web API.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\GraphQL ASP.NET Core Web API.pdb
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Humanizer.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\obj\Debug\net6.0\staticwebassets.build.json
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\obj\Debug\net6.0\staticwebassets.development.json
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\obj\Debug\net6.0\scopedcss\bundle\GraphQL ASP.NET Core Web API.styles.css
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\obj\Debug\net6.0\GraphQL ASP.NET Core Web API.csproj.CopyComplete
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\obj\Debug\net6.0\GraphQL ASP.NET Core Web API.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\obj\Debug\net6.0\ref\GraphQL ASP.NET Core Web API.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\obj\Debug\net6.0\GraphQL ASP.NET Core Web API.pdb
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\obj\Debug\net6.0\GraphQL ASP.NET Core Web API.genruntimeconfig.cache
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\GreenDonut.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Abstractions.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.AspNetCore.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Data.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Data.EntityFramework.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Execution.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Fetching.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Language.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Language.SyntaxTree.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Language.Utf8.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Language.Visitors.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Subscriptions.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Subscriptions.InMemory.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Types.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Types.CursorPagination.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Types.Mutations.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Types.OffsetPagination.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Types.Scalars.Upload.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Utilities.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Utilities.Introspection.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Validation.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.AspNetCore.Abstractions.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.AspNetCore.Playground.dll
+D:\PRACTICE\GraphQL ASP.NET Core Web API\GraphQL ASP.NET Core Web API\bin\Debug\net6.0\HotChocolate.Server.dll
